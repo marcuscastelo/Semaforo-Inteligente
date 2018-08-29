@@ -4,7 +4,7 @@ import cv2
 import time
 import mss
 import numpy as np
-from darkflow.net.build import TFNet
+from darkflow.darkflow.net.build import TFNet
 import signal
 import sys
 import utils
